@@ -1,1 +1,1 @@
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-dotnet-developer/main/imagens/Untitled-1.png" width=""/>   ---
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/azure.jpg" width=""/>   ---
