@@ -1,9 +1,8 @@
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/azure.jpg" width=""/>   ---
 
-<img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
 
 
-## Detalhes da formação
+## Reconhecimento de imagens e adição de descrições
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
 
