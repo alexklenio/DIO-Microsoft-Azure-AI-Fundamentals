@@ -76,4 +76,4 @@ Para o teste, utilizei o json abaixo:
 
 A previsão gerada foi: 361.95
 
-![Img](./imagens/18.png)
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP01%20-%20Machine%20Learning/18.png" width=""/> 
