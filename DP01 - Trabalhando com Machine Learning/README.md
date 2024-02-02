@@ -1,4 +1,10 @@
-# Criando modelo de previsão - Passo a passo
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.dio.me/lab_projects/badges/87d332d0-5198-4a2f-b159-38c8c2976954.png"></a>
+    <span> Trabalhando com Machine Learning</span>
+</h1>
+
+## Criando modelo de previsão - Passo a passo
 
 Para trabalhar no machine learn é essencial que você possua um workspace e esta é a tarefa inicial, criar o seu workspace para assim poder criar o seu trabalho automatizado.
 
@@ -7,7 +13,7 @@ Depois que nosso worlspace estiver pronto temos que entrar no ML studio para cri
 
 ...
 
-# Vamos criar um aprendizado de maquina para a previsão de aluguel de bicicletas:
+## Vamos criar um aprendizado de maquina para a previsão de aluguel de bicicletas:
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP01%20-%20Machine%20Learning/02.png" width=""/> 
 
 O tipo de tarefa é regressão e onome de ativo de dados e aluguel de bicicletas, com fonte de dados da WEB.
@@ -45,7 +51,7 @@ Após envio seu trabalho irá passar pelo proxesso de configuração das execuç
 Pipeline com as etapas do processo de aprendizado e os testes realizados
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP01%20-%20Machine%20Learning/17.png" width=""/> 
 
-## Passo 5: Teste do modelo
+## Teste do modelo
 
 Na página do modelo, cliquei na aba "Pontos de extremidade". Também é possível acessar pelo menu lateral em "Pontos de extremidade". Cliquei no ponto correspondente ao modelo gerado. Em seguida, acessei a aba "Testar".
 
