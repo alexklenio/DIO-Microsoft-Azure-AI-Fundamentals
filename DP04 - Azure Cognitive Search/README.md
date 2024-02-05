@@ -50,7 +50,7 @@ Ao seguir a [Documentação](https://microsoftlearning.github.io/mslearn-ai-fund
 
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/09%20-%20observa%C3%A7%C3%A3o.png" width=""/> ... 
 
-** 4. In the Attach Cognitive Services section, select your Azure AI services resource.**
+**4. In the Attach Cognitive Services section, select your Azure AI services resource.**
 
 Note que a instrução manda que selecionemos o recurso AI SERVICE configurado, porém para mim não mostrou nenhum, apenas uma informação dizend que meu acesso era gratúitoe que as configurações são limitadas, não se preocupe e pode passar para o passo 5 . In the Add enrichments section.
 
@@ -62,16 +62,19 @@ Feitas todas as configurações vamos voltar ao AZURE AI SERVICES, entrar no nos
 
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/11%20-%20testando%20a%20pesquisa.png" width=""/> ... 
 
+```
 search=*&$count=true    (  verifica se a indexação esta funcionando e mostra os documentos )
-
+```
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/12%20-%20testando%20a%20pesquisa.png" width=""/> ... 
 
+```
 search=locations:'Chicago' ( Consulta as ocorrencias acontecidas em Chicado )
-
+```
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/13.png" width=""/> ... 
 
+```
 search=sentiment:'negative' ( Consulta as ocorrencias com sentimento negativo )
-
+```
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/14.png" width=""/> ... 
 
 
