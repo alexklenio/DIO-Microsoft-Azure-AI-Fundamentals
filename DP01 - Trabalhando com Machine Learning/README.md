@@ -57,7 +57,7 @@ Na página do modelo, cliquei na aba "Pontos de extremidade". Também é possív
 
 Para o teste, utilizei o json abaixo:
 
-<code>
+``` JASON
 {
   "input_data": {
     "data": [
@@ -78,7 +78,7 @@ Para o teste, utilizei o json abaixo:
      ]
   }
 }
-</code>
+```
 
 A previsão gerada foi: 361.95
 
