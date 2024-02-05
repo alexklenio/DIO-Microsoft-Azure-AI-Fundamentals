@@ -24,4 +24,16 @@ O desafio propoe que seja criada uma pesquisa que funcione juntamente com um ser
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/03%20-%20Cria%C3%A7%C3%A3o%20do%20storage.gif" width=""/>       
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/04%20-%20deploy%20completo.png" width=""/> 
 
+## Passo 3: Permitindo acesso anônimo ao Blob:      
 
+Como nosso laboratório é apenas didático,para aprender os princípios da inteligência artificial com o Azure, precisamos permitir o acesso anônimo ao blob para simplificar e facilitar nossas implementações, Após criar o seu Storage, entre no mesmo e navegue até a guia SETTINGS > CONFIGURATION seguindo os passos abaixo:
+
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/05%20-%20permitindo%20acesso%20anonimo%20de%20blob.gif" width=""/>
+
+
+## Passo 5: Criando o Container:      
+
+Navegue até a guia DATA STORAGE > CONTAINERS, para criar o contanier dentro do storage e adicionar as pesquisas que seram analisadas pelo AI SERVICE.
+
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/06%20-%20criando%20container.gif" width=""/>
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/07%20adicionando%20pesquisas%20ao%20container.gif" width=""/>
