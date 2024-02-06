@@ -6,5 +6,8 @@ Explorando os Recursos de IA Generativa
 </span>
 </h1>
 
-## Em desenvolvimento
+## Passo 1: Criando recurso do Azure AI Services
 
+Primeiro precisei criar um recurso de AI Services, Pesquisei por Azure AI Services no marketplace. Após encontrar o recurso cliquei em criar.
+
+![Img](./imagens/img1.gif)
