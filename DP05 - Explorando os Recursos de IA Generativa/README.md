@@ -8,6 +8,12 @@ Explorando os Recursos de IA Generativa
 
 ## Passo 1: Criando recurso do Azure AI Services
 
-Primeiro precisei criar um recurso de AI Services, Pesquisei por Azure AI Services no marketplace. Após encontrar o recurso cliquei em criar.
+Primeiro precisei criar um recurso de inteligência virtual, pesquisei por Azure AI Services no marketplace, após encontrar o recurso cliquei em criar.
 
-![Img](./imagens/DP05/01.gif)
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP05/01.gif" width=""/> ... 
+
+## Passo 2: Abrindo e configurando o Portal AI Vision Studio
+
+Após criar o seu serviço de inteligencia virtual do Azure.
+
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP05/02.gif" width=""/> ... 
