@@ -10,4 +10,4 @@ Explorando os Recursos de IA Generativa
 
 Primeiro precisei criar um recurso de AI Services, Pesquisei por Azure AI Services no marketplace. Após encontrar o recurso cliquei em criar.
 
-![Img](./imagens/img1.gif)
+![Img](./imagens/DP05/01.gif)
