@@ -1,8 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/WhatsApp%20Image%202024-02-02%20at%2012.43.08.jpeg" width="1000"/>   ...
-
-
-
-<img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize os modelos para desenvolver suas respostas!
@@ -11,6 +6,9 @@
 
 
 ## Detalhes da formação
+
+<img align="right" src="https://assets.dio.me/MCPFG2_8Jtaa5UHe4OdLz_YI7gXvp8UzqXLmELjfCBI/f:webp/h:120/q:80/L3RyYWNrcy9lMDRhNTIxNi0yMmQzLTQ2N2QtYmFmNC0xMzU4ODIwYWVlOWUucG5n" width="160"/>
+
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
 
